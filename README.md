@@ -30,6 +30,5 @@ What really gets me going? **Building stuff that actually works** and **fixing p
 ## 📬 Contact
 
 - **Email**: [me@albertobaena.com](mailto:me@albertobaena.com)
-- **GitHub**: [@AlbertoBaena](https://github.com/AlbertoBaena)
 - **LinkedIn**: [Alberto Baena](https://www.linkedin.com/in/alberto-baena/)
 - **Portfolio**: [albertobaena.com](https://albertobaena.com)

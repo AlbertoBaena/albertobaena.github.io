@@ -257,9 +257,16 @@ h1, h2, h3, h4 {
 }
 
 .btn-small {
+  background: transparent;
   padding: 0.4rem 1.2rem;
   font-size: 0.8rem;
-  box-shadow: 3px 3px 0 var(--shadow);
+}
+
+.btn-small:hover {
+  padding: 0.5rem 1.3rem;
+  font-size: 1rem;
+  background: var(--border);
+  color: var(--bg);
 }
 
 /* ===== ABOUT ME ===== */
@@ -284,6 +291,14 @@ h1, h2, h3, h4 {
   text-align: center;
   box-shadow: 6px 6px 0 var(--secondary);
   transition: background 0.2s, border 0.2s, box-shadow 0.2s;
+}
+
+.stat-box:hover {
+  background: var(--secondary);  /* Fondo del color secundario */
+  color: var(--bg);  /* Texto del color de fondo (inversión) */
+  transform: scale(1.05);  /* Se agranda un 5% */
+  box-shadow: 8px 8px 0 var(--primary);  /* Sombra más grande y de otro color */
+  border-color: var(--secondary);  /* Borde del color secundario */
 }
 
 /* ===== PROJECTS ===== */
